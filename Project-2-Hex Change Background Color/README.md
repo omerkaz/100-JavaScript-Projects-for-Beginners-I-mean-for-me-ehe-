@@ -2,7 +2,7 @@
 
 ---
 
-Renk isimlerinin yer aldığı bir array ile arka plan rengi belirlemek yerine rgb kullanarak 0-255 arasında üç sayı belirleyerek kırmızı yeşil ve mavinin en geniş kapsamlı birleşimi ile dar bir renk yelpazesinden ziyade yapabildiğimin en geniş kapsamlısını sunmaya çalıştım.
+Buradaki projede bir önceki projedeki gibi rgb kullanmak yerine hex color kullanarak bir array ve for döngüsü ile 8 hanenin random belirlendiği hex color change projesi yapıldı.
 
 
 ---
@@ -10,4 +10,4 @@ Renk isimlerinin yer aldığı bir array ile arka plan rengi belirlemek yerine r
 ```
 
 ```
-![EKRAN GÖRÜNTÜSÜ](https://img001.prntscr.com/file/img001/yrg7FUGMRQmt7BKsv7z5_A.png)
+![EKRAN GÖRÜNTÜSÜ](https://img001.prntscr.com/file/img001/L7GUCfnpTYOwE0CYYbR8Iw.png)
