@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(2, 24, 43);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media screen and (max-width: 992px){
+    .container{
+        max-width: 45vw !important;
+    }
+}
+
+.container {
+    margin-top: 30vh;
+    max-width: 35vw;
+}
+
+.row {
+
+    border-radius: 20px;
+    background-color: rgb(1, 151, 246);
+}
+
+#counter {
+    font-size: 7vh;
+}

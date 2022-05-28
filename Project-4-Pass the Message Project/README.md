@@ -1,4 +1,4 @@
-### Bu proje 100+ JavaScript Projects for Beginners! konu başlığı altında yaptığım dördüncü proje, bir adet index.html, bgColor.js ve style.css dosyalarını barındırıyor.
+### Bu proje 100+ JavaScript Projects for Beginners! konu başlığı altında yaptığım dördüncü proje, bir adet index.html, app.js ve style.css dosyalarını barındırıyor.
 
 ---
 
