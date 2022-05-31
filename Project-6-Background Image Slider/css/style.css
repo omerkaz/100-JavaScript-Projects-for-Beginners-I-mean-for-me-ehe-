@@ -1,0 +1,33 @@
+.bgImage {
+    background-image: url(../assets/1.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    min-height: 80vh;
+    border-radius: 50px;
+    border-width: 5px !important;
+    
+}
+
+.row {
+    min-height: 100vh;
+}
+
+.rightBtn {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translate(50%,-50%);
+}
+
+.leftBtn {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+i {
+    font-weight:bolder!important;
+    font-size: 1.2rem!important;
+}
